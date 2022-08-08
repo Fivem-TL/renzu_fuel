@@ -8,3 +8,5 @@ this is my version and its NUI based
 2) Drag & drop the folder into your `resources` server folder.
 3) Configure the config file to your liking.
 4) Add `start renzu_fuel` to your server config.
+
+Leaker - !Akshai YT#2742 Discord - https://discord.gg/fHh6FqfUun
